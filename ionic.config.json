@@ -1,0 +1,7 @@
+{
+  "name": "H-TEK",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
